@@ -1,0 +1,20 @@
+{
+  "name": "translatez-hack",
+  "version": "0.0.1",
+  "description": "Apply the translateZ hack in a cross-browser way. For use with browserify / CommonJS.",
+  "main": "translatez-hack.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HenrikJoreteg/translatez-hack.git"
+  },
+  "keywords": [
+    "styles",
+    "css",
+    "browserify"
+  ],
+  "dependencies": {
+    "transform-style": "0.1.0"
+  },
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "license": "MIT"
+}
